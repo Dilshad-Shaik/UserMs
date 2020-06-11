@@ -1,0 +1,19 @@
+
+\com.management.UserMS.UserConfig#restTemplate()Lorg/springframework/web/client/RestTemplate;n
+dC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/UserConfig.java ($"1*Ù
+1n
+dC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/UserConfig.java (!ÓÐ
+n
+dC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/UserConfig.java (1
+%0+org.springframework.web.client.RestTemplate"+org.springframework.web.client.RestTemplateå
+â
+n
+dC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/UserConfig.java (!
+%1"5org.springframework.web.client.RestTemplate#<init>()V*3
+1
+%0+org.springframework.web.client.RestTemplate"¥
+n
+dC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/UserConfig.java ("3
+1
+%0+org.springframework.web.client.RestTemplateB$"
+ com.management.UserMS.UserConfig

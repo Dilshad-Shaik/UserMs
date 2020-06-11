@@ -1,0 +1,55 @@
+
+xcom.management.UserMS.controller.BuyerController#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)Ljava/lang/String;~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F("startingBlock*Ó
+startingBlock~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F(>Ä
+˝
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaE E(U
+%4"
+__annotate*75
+3org.springframework.web.bind.annotation.PostMapping*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTOÄ
+˝
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF F(+
+%5"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO—
+Œ
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaF5 F(=.
+buyerDTO"com.management.UserMS.dto.BuyerDTO"__annotation*
+
+%4*
+
+%5*
+4*†
+4~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaH H(É
+Ä
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaH H(0
+%0*com.management.UserMS.service.BuyerService"__id*F*D2
+0com.management.UserMS.controller.BuyerController"
+buyerServiceèå
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaH H(*
+
+%1void"acom.management.UserMS.service.BuyerService#deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)V*2
+0
+%0*com.management.UserMS.service.BuyerService*0
+.
+buyerDTO"com.management.UserMS.dto.BuyerDTO25deactivateBuyer(Lcom/management/UserMS/dto/BuyerDTO;)*
+1*ü
+1~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaL
+ L("ô
+~
+tC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/controller/BuyerController.javaL L( 
+Account Deactivated:.
+buyerDTO"com.management.UserMS.dto.BuyerDTOB42
+0com.management.UserMS.controller.BuyerController

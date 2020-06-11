@@ -1,0 +1,18 @@
+
+Kcom.management.UserMS.service.BuyerService#isValidName(Ljava/lang/String;)Zx
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javai i("1*Â
+1x
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javak	 k(½
+º
+x
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javak	 k(F
+%0boolean"Ljava.util.regex.Pattern#matches(Ljava/lang/String;Ljava/lang/CharSequence;)Z*"
+java.util.regex.Pattern*(&
+$^[a-zA-Z]+[-a-zA-Z\\s]+([-a-zA-Z]+)$*
+
+namejava.lang.String"‚
+x
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javak k(G
+"":
+namejava.lang.StringB.,
+*com.management.UserMS.service.BuyerService

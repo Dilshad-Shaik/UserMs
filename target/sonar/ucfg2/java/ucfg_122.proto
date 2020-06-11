@@ -1,0 +1,62 @@
+
+}com.management.UserMS.dto.WishlistDTO#valueOf(Lcom/management/UserMS/entity/Wishlist;)Lcom/management/UserMS/dto/WishlistDTO;s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java# #(""1*Ë
+1s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(+Ã…
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %()+
+%0%com.management.UserMS.dto.WishlistDTO"%com.management.UserMS.dto.WishlistDTOﬁ
+€
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(+
+%1"/com.management.UserMS.dto.WishlistDTO#<init>()V*-
++
+%0%com.management.UserMS.dto.WishlistDTO„
+‡
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java% %(,4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO"__id*-
++
+%0%com.management.UserMS.dto.WishlistDTOΩ∫
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(-)
+%2#com.management.UserMS.entity.CartId"Vcom.management.UserMS.entity.Wishlist#getCartId()Lcom/management/UserMS/entity/CartId;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getCartId()ëé
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(:
+%3java.lang.Integer"Ccom.management.UserMS.entity.CartId#getBuyerId()Ljava/lang/Integer;*+
+)
+%2#com.management.UserMS.entity.CartId2getBuyerId()¿Ω
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java& &(;
+
+%4void"Fcom.management.UserMS.dto.WishlistDTO#setBuyerid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%3java.lang.Integer2setBuyerid(Ljava/lang/Integer;)Ω∫
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(,)
+%5#com.management.UserMS.entity.CartId"Vcom.management.UserMS.entity.Wishlist#getCartId()Lcom/management/UserMS/entity/CartId;*3
+1
+wishlist%com.management.UserMS.entity.Wishlist2getCartId()èå
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(8
+%6java.lang.Integer"Bcom.management.UserMS.entity.CartId#getProdId()Ljava/lang/Integer;*+
+)
+%5#com.management.UserMS.entity.CartId2getProdId()æª
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java' '(9
+
+%7void"Ecom.management.UserMS.dto.WishlistDTO#setProdid(Ljava/lang/Integer;)V*6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO*
+
+%6java.lang.Integer2setProdid(Ljava/lang/Integer;)"≠
+s
+iC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/dto/WishlistDTO.java) )(6
+4
+wishlistDTO%com.management.UserMS.dto.WishlistDTO:1
+wishlist%com.management.UserMS.entity.WishlistB)"'
+%com.management.UserMS.dto.WishlistDTO

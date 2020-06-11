@@ -1,0 +1,44 @@
+
+;com.management.UserMS.service.BuyerService#IsPrivileged(I)Zz
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÅ Å("3*†
+2z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaË
+ Ë("„
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaË Ë(
+""*ô	
+3z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÇ Ç(ü
+ù
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÇ Ç(6
+%00com.management.UserMS.repository.BuyerRepository"__id*=*;,
+*com.management.UserMS.service.BuyerService"
+	buyerRepoäá
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÇ Ç(/(
+%1"com.management.UserMS.entity.Buyer"ecom.management.UserMS.repository.BuyerRepository#findByBuyerId(I)Lcom/management/UserMS/entity/Buyer;*8
+6
+%00com.management.UserMS.repository.BuyerRepository*
+""2findByBuyerId(I)Þ
+Û
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÇ Ç(0+
+buyer"com.management.UserMS.entity.Buyer"__id**
+(
+%1"com.management.UserMS.entity.Buyer£ 
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÉ É(
+%2java.lang.Boolean"Gcom.management.UserMS.entity.Buyer#getIsPrivileged()Ljava/lang/Boolean;*-
++
+buyer"com.management.UserMS.entity.Buyer2getIsPrivileged()*
+2
+1*†
+1z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÏ
+ Ï("„
+z
+nC:/Users/Jilani Baji Sheik/Desktop/group8/UserMS/src/main/java/com/management/UserMS/service/BuyerService.javaÏ Ï(
+"":
+""B.,
+*com.management.UserMS.service.BuyerService
